@@ -1,6 +1,6 @@
 Este readme pretende explicar cuál es el proceso de instalar Obsidian para poder mirar las notas que he creado para vosotros, jugadores.
 
-Si ya has instalado obsidian y estás viendo esto desde tu PC navega hasta [El índice de personajes].(https://github.com/JaimeEscribano/CurseOfStrahdNotas/blob/main/%C3%8Dndice%20de%20Personajes.md)
+Si ya has instalado obsidian y estás viendo esto desde tu PC navega hasta [El índice de personajes](https://github.com/JaimeEscribano/CurseOfStrahdNotas/blob/main/%C3%8Dndice%20de%20Personajes.md)
 
 ## 1. Instala Obsidian
 
