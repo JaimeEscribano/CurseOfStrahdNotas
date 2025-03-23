@@ -1,0 +1,1 @@
+Mayordomo de [[Strahd Von Zarovich|Strahd]] por un trato que hizo con [[El Abad]] para curar a su familia de su terrible deformidad.
